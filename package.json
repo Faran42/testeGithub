@@ -1,0 +1,10 @@
+{
+  "name": "testeGit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Faran42 <faranorphys@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
